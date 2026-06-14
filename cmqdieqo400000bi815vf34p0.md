@@ -273,7 +273,7 @@ Eventually we reached a point where people were spotting issues manually before 
 
 The architecture at this point was still fundamentally:
 
-![](https://cdn.hashnode.com/uploads/covers/68bd444a246904ab71032ce8/ba466baf-2344-400a-8f28-6148bc3b2dd3.png align="center")
+![](https://cdn.hashnode.com/uploads/covers/68bd444a246904ab71032ce8/8948535c-2b05-4ea1-9a62-cddab84976c5.png align="center")
 
 Every single record needed to sequentially pass through every single rule. That becomes painful very quickly once rule count starts exploding.
 
